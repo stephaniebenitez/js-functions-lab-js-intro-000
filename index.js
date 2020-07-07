@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays (
   {
-    return( `Happy Birthday + ${name})
+    return( `Happy holidays`)
   }
 happyHolidays(stephanie)
 happyHolidaysTo(name)
